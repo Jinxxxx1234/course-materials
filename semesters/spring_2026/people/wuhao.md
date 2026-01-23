@@ -14,4 +14,8 @@ My longer-term goal is to work in a data-driven policy or strategy role, where I
 
 **Favorite snack:** I don't like snacks.
 
+<<<<<<< HEAD
 <img src="../img/wuhao.jpg" height="200" />
+=======
+<img src="../img/wuhao.jpg" height="200" />
+>>>>>>> deea9f1 (adding wuhao profile photo to md file and updating people csv)

@@ -14,4 +14,4 @@ My dream job is (at least at present) is to so something that I'm good at like c
 
 **Favorite snack:** Neutella Cookie
 
-![This is me!](/semesters/spring_2026/img/jing.JPG "Jing Bu")
+<img src="../img/jing.JPG" height="200" />
